@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class  tri
+class  trian
 {
 	public static void main(String[] args) 
 	{
